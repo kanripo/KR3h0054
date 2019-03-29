@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 書畫題跋記
-#+DATE: 2019-03-29 21:17:54.769234
+#+DATE: 2019-03-29 21:17:55.050767
 #+PROPERTY: ID KR3h0054
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR3h0054_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -876,7 +876,7 @@
 　　承塵賦鵬已多年雨木霜筠共愀然昨日不堪江上¶
 ¶
 <pb:KR3h0054_WYG_001-37a>¶
-　　過數聲鄰&KR0327;寺門前　　　　雙鸐道人¶
+　　過數聲鄰笛寺門前　　　　雙鸐道人¶
 ¶
 　　林石蕭蕭聽雨時為摹清閟閣前枝倪迂僊去今何¶
 ¶
